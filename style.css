@@ -1,0 +1,28 @@
+.body{
+margin: 0;
+height: 100%;
+width: 100%;
+
+
+
+}
+#header{
+	background-color: ;
+	height: 100px;
+	width: 50px;
+}
+
+#form{
+
+	height: 200px;
+	width: 100%;
+	background-color: white;
+	
+	border-width: 5px;
+}
+
+input[type = text] {
+	margin-top: 60px;
+  margin-left: 200px;
+  border-width: 5px;
+}
